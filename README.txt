@@ -1,4 +1,4 @@
-ALPHABET PRACTICE v1.1 — GITHUB PAGES
+ALPHABET PRACTICE v1.2 — GITHUB PAGES
 
 1. Create a new public GitHub repository, e.g. alphabet-practice.
 2. Upload all nine files from this ZIP to the repository root.
@@ -17,3 +17,5 @@ To update answers later: replace answers.json and change the CACHE constant in s
 A revealed answer does not count as recalled. Multiple guesses are allowed. Answer checking ignores leading/trailing spaces, repeated internal spaces and letter case.
 
 V1.1: Correct Submit briefly shows a green check, then automatically advances after 0.45 seconds. The answer input receives focus on each letter. iOS may require a tap to reopen the on-screen keyboard after a programmatic focus; this is controlled by iOS.
+
+Version 1.2: Category shown prominently above the letter in all practice modes.
